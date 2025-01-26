@@ -5,3 +5,5 @@ dic={
 }
 print(dic[344])
 print("My name is Firoz Ahmed")
+print("My name is Aisha Alam")
+print("My name is Aisha")
