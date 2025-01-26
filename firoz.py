@@ -1,6 +1,7 @@
 dic={
-  344:"harry",
+  344:"Harry",
   236:"neha",
   500:"john",
 }
-print(dic[500])
+print(dic[344])
+print("My name is Firoz Ahmed")
