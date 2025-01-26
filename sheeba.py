@@ -1,0 +1,1 @@
+print("aisha is a good girl")
