@@ -1,15 +1,8 @@
-dic={
-  344:"Harry",
-  236:"neha",
-  500:"john",
-}
-print(dic[344])
-print("My name is Firoz Ahmed")
-print("My name is Aisha Alam")
-print("My name is Aisha")
-print("My name is Aisha")
-dic={
-  344:"Harry",
-  236:"neha",
-  500:"john",
-}
+import random
+word_list= ["camel" ,"baboon","monkey","dog"]
+
+chosen_word=random.choice(word_list)
+print(chosen_word)
+
+guess=input("Guess a letter: ").lower()
+print(guess)
