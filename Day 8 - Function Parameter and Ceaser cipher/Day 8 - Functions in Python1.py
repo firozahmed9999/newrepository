@@ -4,3 +4,4 @@ def greet_with_name(name):
     print(f"Isn't the weather nice {name}")
 
 greet_with_name("Firoz")
+greet_with_name("Firoz")
